@@ -41,7 +41,7 @@ a:visited {
 }
 
 body{
-    background: url(/assets/img/bg.jpg) fixed center/cover;
+    background: url("./assets/img/bg.jpg") fixed center/cover;
     text-align: center;
     font-family: $font2;
     max-width: 1300px;
